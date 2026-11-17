@@ -5,3 +5,7 @@ pub fn add(a: i32, b: i32) -> i32 {
 pub fn sub(a: i32, b: i32) -> i32 {
     b - a
 }
+
+pub fn mul(a: i32, b: i32) -> i32 {
+    a * b
+}
